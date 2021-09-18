@@ -1,3 +1,4 @@
+package codigo_aula;
 import javax.swing.JOptionPane; // extensão que permite usar o pop-up
 
 public class Janela {

@@ -1,3 +1,4 @@
+package codigo_aula;
 public class Novo { 
     // o nome da classe é o nome do arquivo
     // para criar a classe, rodar comando -> javac Novo.java

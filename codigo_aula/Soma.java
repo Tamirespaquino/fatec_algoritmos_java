@@ -1,3 +1,4 @@
+package codigo_aula;
 public class Soma {
     public static void main (String args[]) {
      int a = 7, b = 8, c = 9;
