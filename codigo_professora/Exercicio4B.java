@@ -1,3 +1,4 @@
+package codigo_professora;
 import javax.swing.JOptionPane;
 
 public class Exercicio4B {

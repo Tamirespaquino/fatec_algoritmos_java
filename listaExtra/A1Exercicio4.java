@@ -1,4 +1,4 @@
-package avalicao_1;
+package listaExtra;
 public class A1Exercicio4 {
     public static void main (String args[]) {
         double x = 12.00;

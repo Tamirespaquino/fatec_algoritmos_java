@@ -1,4 +1,4 @@
-package avalicao_1;
+package listaExtra;
 import java.util.Scanner;
 
 public class A1Exercicio1 {

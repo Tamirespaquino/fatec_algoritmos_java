@@ -1,3 +1,4 @@
+package codigo_professora;
 import java.util.Scanner;
 
 public class Exercicio6A {

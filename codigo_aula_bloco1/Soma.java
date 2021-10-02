@@ -1,4 +1,4 @@
-package codigo_aula;
+package codigo_aula_bloco1;
 public class Soma {
     public static void main (String args[]) {
      int a = 7, b = 8, c = 9;

@@ -1,4 +1,4 @@
-package codigo_aula;
+package codigo_aula_bloco1;
 import javax.swing.JOptionPane;
 public class Pratica1{
     public static void main (String args[]){

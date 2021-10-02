@@ -1,4 +1,4 @@
-package codigo_aula;
+package codigo_aula_bloco1;
 import javax.swing.JOptionPane;
 
 public class TesteSaida {

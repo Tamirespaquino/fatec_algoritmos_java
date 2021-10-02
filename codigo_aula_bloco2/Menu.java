@@ -1,3 +1,4 @@
+package codigo_aula_bloco2;
 import java.util.Scanner;
 
 public class Menu {
