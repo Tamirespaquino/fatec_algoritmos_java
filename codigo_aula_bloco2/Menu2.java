@@ -1,6 +1,7 @@
+package codigo_aula_bloco2;
 import java.util.Scanner;
 
-public class Menu {
+public class Menu2 {
     /* Ler uma opção:
     1 - Ler um número qualquer e, se o número for positivo, calcular
     e mostrar a raiz quadrada. Se ele for negativo, calcular e mostrar
