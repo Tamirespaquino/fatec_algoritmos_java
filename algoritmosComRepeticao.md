@@ -80,4 +80,12 @@
         * for (condição de início; teste de continuidade; atualização da condição) {
             todas as instruções que devem se repetir
         }
+
+-> DO - WHILE:
+    * Teste de continuidade no final e é usado para controle de sentinela
+    * Pode haver uma inicialização da condição
+        do {
+            instruções que podem se repetir
+        } while (condição verdadeira);
+    * 
     

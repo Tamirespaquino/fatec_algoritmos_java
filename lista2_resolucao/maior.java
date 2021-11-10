@@ -1,3 +1,4 @@
+package lista2_resolucao;
 import java.util.Scanner;
 
 public class maior {
@@ -9,11 +10,11 @@ public class maior {
         int c = entrada.nextInt();
 
         if (a > b && a > c){
-            System.out.println(a);
+            System.out.print(a);
         } else if (b > a && b > c) {
-            System.out.println(b);
+            System.out.print(b);
         } else {
-            System.out.println(c);
+            System.out.print(c);
         }
         entrada.close();
     }   
