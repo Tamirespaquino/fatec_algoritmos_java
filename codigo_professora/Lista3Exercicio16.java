@@ -1,6 +1,5 @@
 //Faça um programa que lê um número inteiro positivo ímpar N e imprime todos os números ímpares de 1 até N em ordem crescente.
 
-
 import java.util.Scanner;
 public class Lista3Exercicio16 {
     public static void main(String[] args) {
