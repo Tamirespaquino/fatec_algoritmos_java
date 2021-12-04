@@ -51,3 +51,13 @@
    String: é uma sequencia de caracteres. Exemplo: "amor", "programar exige estudo". Quando se quer um caracter, pega a posição daquele caracter, a qual começa em 0. Para ler um caracter via showInputDialog:
     * ler a String
     * usar charAt(posição que deseja)
+
+-> Aplicações para valores geradps randomicamente
+    * Geração de senhas
+    * Geração dinâmica de endereços de IP para uma rede: DHCP
+    * Jogos
+    * Em java:
+        - Random: não tem um método só. Pertence ao pacote java.util - precisa importar. Ex.: nextInt, nextDouble, nextParse, etc
+
+        - Math: random: gera valores entre 0 (incluído) e 1 (excluído). Pertence ao pacote java.lang - é o núcleo - não precisa importar.
+
