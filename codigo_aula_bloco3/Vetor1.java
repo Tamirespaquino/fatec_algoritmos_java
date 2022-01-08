@@ -1,3 +1,4 @@
+package codigo_aula_bloco3;
 import java.util.Scanner;
 
 public class Vetor1 {
